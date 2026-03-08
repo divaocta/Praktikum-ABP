@@ -44,23 +44,23 @@ Command Line Interface (CLI) adalah antarmuka berbasis teks yang memungkinkan pe
 
 ## 2. Langkah Praktikum
 
-**a. Membuat Repository di GitHub**
+### **a. Membuat Repository di GitHub**
 
 Klik New Repository, lalu isi nama repository sesuai kebutuhan dan klik Create Repository. Setelah repository berhasil dibuat, GitHub akan menampilkan halaman yang berisi panduan perintah Git yang dapat digunakan untuk menghubungkan repository lokal dengan repository di GitHub.
 
-**b. Menyiapkan Folder Proyek**
+### **b. Menyiapkan Folder Proyek**
 
 Buat folder proyek pada komputer untuk menyimpan file yang akan diunggah ke GitHub. Di dalam folder tersebut dapat dibuat file sederhana, seperti file README atau file teks sebagai contoh.
 
 ![Gambar b](images/1.png)
 
-**c. Menjalankan Perintah Git Melalui Command Prompt**
+### **c. Menjalankan Perintah Git Melalui Command Prompt**
 
 Buka Command Prompt melalui lokasi folder proyek yang telah dibuat dengan mengetik cmd pada address bar File Explorer, sehingga Command Prompt terbuka langsung pada direktori folder tersebut.
 
 ![Gambar c](images/2.png)
 
-**d. Memeriksa Repository di Github**
+### **d. Memeriksa Repository di Github**
 
 Buka kembali halaman repository di GitHub untuk memastikan file yang telah diunggah muncul di dalam repository. Jika file sudah terlihat, maka proses upload telah berhasil.
 
