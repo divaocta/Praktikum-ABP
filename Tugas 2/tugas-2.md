@@ -8,9 +8,12 @@
 ### HTML  
 
 <br>
+<br>
 
 <img src="images/logotelu.png" width="150">
 
+<br>
+<br>
 <br>
 
 **Disusun oleh:**
