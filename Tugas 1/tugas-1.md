@@ -64,4 +64,4 @@ Buka Command Prompt melalui lokasi folder proyek yang telah dibuat dengan menget
 
 Buka kembali halaman repository di GitHub untuk memastikan file yang telah diunggah muncul di dalam repository. Jika file sudah terlihat, maka proses upload telah berhasil.
 
-![Gambar d](images/3.png)
+![Gambar d](images/3.png) 
