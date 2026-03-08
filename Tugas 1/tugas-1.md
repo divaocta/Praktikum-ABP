@@ -5,12 +5,14 @@
 <br>
 
 ### MODUL 1 & 2
-### PENGENALAN GIT  
+### PENGENALAN GIT 
 
+<br>
 <br>
 
 <img src="images/logotelu.png" width="150">
 
+<br>
 <br>
 
 **Disusun oleh:**
