@@ -4,8 +4,8 @@
   
 <br>
 
-### MODUL 1 & 2
-### PENGENALAN GIT 
+### MODUL 1
+### GIT
 
 <br>
 <br>
